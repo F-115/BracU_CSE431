@@ -2,7 +2,7 @@ Link to unlisted YouTube video: https://youtu.be/1XJjtOtm07o
 
 Two public links to the Concept Map (anyone on the internet can view without login): https://app.diagrams.net/#G1uzolh91LF-TeBnrC66UnxUB1y16_Yq2F
 
-PDF: https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission3/Group16_ConceptMap.pdf
+PDF: https://github.com/F-115/BracU_CSE431/blob/main/Submission%203/Group16_ConceptMap.pdf
 
 Native/original format: https://app.diagrams.net/#G1uzolh91LF-TeBnrC66UnxUB1y16_Yq2F
 
