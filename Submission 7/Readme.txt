@@ -18,8 +18,7 @@ Topic: Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sen
 Conference login link for submitted paper: https://cats23.gust.edu.kw/ 
 Conference Name:  IEEE International Conference CATS’23
 Conference URL: https://easychair.org/conferences/?conf=cats23 
-Conference Submission Date: 10 May 2023                                                                                            Overleaf link with edit access to 
-
+Conference Submission Date: 10 May 2023                                                                                          
 
 Group Number: 16
 Group Members:
