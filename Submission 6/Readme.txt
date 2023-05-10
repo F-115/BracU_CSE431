@@ -10,7 +10,7 @@ and Opinions through Sentiment Analysis on
 Twitter Dataset
 
 Paper presentation (anyone can view without login):
-https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission6/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data.pdf 
+https://github.com/F-115/BracU_CSE431/blob/main/Submission%206/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data.pdf
 
 
 Group Number: 16
