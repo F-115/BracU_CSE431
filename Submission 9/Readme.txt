@@ -1,26 +1,13 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
-
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
-
 completed youtube video:
-http://youtube....
+https://youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG
 
 completed book:
-http://book
+https://web.stanford.edu/~jurafsky/slp3/
 
-did project:
-.....
 
-did something else
-...
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse431spring2023.slack.com/archives/C04KUHG0L7Q/p1683702421611599
 
 Submitter:
-12345678 Name A
+20301193 Jannatul Ferdoshi
