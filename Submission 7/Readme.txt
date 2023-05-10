@@ -13,6 +13,14 @@ Paper presentation (anyone can view without login):
 https://github.com/F-115/BracU_CSE431/blob/main/Submission%207/2023_Spring_Unveiling_Twitter_Sentiments__Analyzing_Emotions_and_Opinions_through_Sentiment_Analysis_on_Twitter_Dataset.pdf
 
 
+Topic: Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
+
+Conference login link for submitted paper: https://cats23.gust.edu.kw/ 
+Conference Name:  IEEE International Conference CATS’23
+Conference URL: https://easychair.org/conferences/?conf=cats23 
+Conference Submission Date: 10 May 2023                                                                                            Overleaf link with edit access to 
+
+
 Group Number: 16
 Group Members:
 20301091 Samirah Dilshad Salsabil
