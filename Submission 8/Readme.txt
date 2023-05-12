@@ -8,7 +8,7 @@ Paper title:
 Unlocking Legal Insights: NLP-driven Named Entity Extraction in Legal Texts
 
 Paper presentation (anyone can view without login): 
-https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission8/2023_Spring_Unlocking_Legal_Insights__NLP_driven_Named_Entity_Extraction_in_Legal_Texts%20(1).pdf
+https://github.com/F-115/BracU_CSE431/blob/main/Submission%208/2023_Spring_Unlocking_Legal_Insights__NLP_driven_Named_Entity_Extraction_in_Legal_Texts.pdf
 
 Group Number: 16
 Group Members:
