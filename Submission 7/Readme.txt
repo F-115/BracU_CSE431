@@ -15,10 +15,19 @@ https://github.com/F-115/BracU_CSE431/blob/main/Submission%207/2023_Spring_Unvei
 
 Topic: Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
-Conference login link for submitted paper: https://cats23.gust.edu.kw/ 
-Conference Name:  IEEE International Conference CATS’23
-Conference URL: https://easychair.org/conferences/?conf=cats23 
-Conference Submission Date: 10 May 2023                                                                                          
+Paper submission ID: 8
+
+Conference login link for submitted paper: 
+https://easychair.org/account/signin
+
+Conference Name:  
+IEEE International Conference CATS’23
+
+Conference URL: 
+https://easychair.org/conferences/?conf=cats23 
+
+Conference Submission Date: 
+10 May 2023                                                                                       
 
 Group Number: 16
 Group Members:
