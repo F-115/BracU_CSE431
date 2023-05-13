@@ -1,5 +1,6 @@
 completed youtube video:
 https://youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG
+https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX
 
 completed book:
 SLP3: https://web.stanford.edu/~jurafsky/slp3/ 
@@ -9,6 +10,7 @@ Introduction To Algorithm : https://pd.daffodilvarsity.edu.bd/course/material/bo
 
 was active in slack:
 https://bucse431spring2023.slack.com/archives/C04KUHG0L7Q/p1683702421611599
+https://bucse431spring2023.slack.com/archives/C04KUHG0L7Q/p1683966437486109
 
 Submitter:
 20301193 Jannatul Ferdoshi
