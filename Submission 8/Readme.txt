@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail: 
-https://www.overleaf.com/project/645e26cdf03c7a4b4bec594f
+https://www.overleaf.com/read/jkdsrrbdqxjg
 
 Unlisted YouTube video: 
 https://youtu.be/kE_wlAsyDho
@@ -9,6 +9,11 @@ Unlocking Legal Insights: NLP-driven Named Entity Extraction in Legal Texts
 
 Paper presentation (anyone can view without login): 
 https://github.com/F-115/BracU_CSE431/blob/main/Submission%208/2023_Spring_Unlocking_Legal_Insights__NLP_driven_Named_Entity_Extraction_in_Legal_Texts.pdf
+
+Conference login link for submitted paper: https://easychair.org/account/signin
+Conference Name:  IEEE International Conference CATS’23
+Conference URL:https://easychair.org/conferences/?conf=cats23
+Conference Submission Date: 17 May 2023   
 
 Group Number: 16
 Group Members:
