@@ -8,7 +8,7 @@ Paper title:
 Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
 Paper presentation (anyone can view without login): 
-https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission6/2023_Spring_Unveiling_Twitter_Sentiments__Analyzing_Emotions_and_Opinions_through_Sentiment_Analysis_on_Twitter_Dataset.pdf 
+https://github.com/F-115/BracU_CSE431/blob/main/Submission%206/2023_Spring_Unveiling_Twitter_Sentiments__Analyzing_Emotions_and_Opinions_through_Sentiment_Analysis_on_Twitter_Dataset.pdf
 
 Paper submission ID: 8
 
