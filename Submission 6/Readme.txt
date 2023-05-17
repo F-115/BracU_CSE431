@@ -5,13 +5,24 @@ Unlisted YouTube video:
 https://youtu.be/z4UekWJlSCc
 
 Paper title:
-Unveiling Twitter Sentiments: Analyzing Emotions
-and Opinions through Sentiment Analysis on
-Twitter Dataset
+Unveiling Twitter Sentiments: Analyzing Emotions and Opinions through Sentiment Analysis on Twitter Dataset
 
-Paper presentation (anyone can view without login):
-https://github.com/F-115/BracU_CSE431/blob/main/Submission%206/2023_Spring_Effectiveness_of_Machine_Learning_Based_Sentiment_Analysis_Techniques_on_Social_Media_Data.pdf
+Paper presentation (anyone can view without login): 
+https://github.com/Samirah-Dilshad-Salsabil/BRACU_CSE431/blob/main/Submission6/2023_Spring_Unveiling_Twitter_Sentiments__Analyzing_Emotions_and_Opinions_through_Sentiment_Analysis_on_Twitter_Dataset.pdf 
 
+Paper submission ID: 8
+
+Conference login link for submitted paper: 
+https://easychair.org/account/signin
+
+Conference Name:  
+IEEE International Conference CATS’23
+
+Conference URL: 
+https://easychair.org/conferences/?conf=cats23 
+
+Conference Submission Date: 
+10 May 2023
 
 Group Number: 16
 Group Members:
